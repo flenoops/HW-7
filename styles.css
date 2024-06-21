@@ -1,0 +1,7 @@
+div.holder a[href^="https"] {
+    color: #ff0000;
+}
+
+div.holder ul + p {
+    font-size: 24px;
+}
